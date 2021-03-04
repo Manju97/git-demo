@@ -18,4 +18,6 @@ def multiply(x,y):
 def divide(x,y):
 if y==0
   divide by 0
+square(x)
+pass
 
