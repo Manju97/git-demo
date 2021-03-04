@@ -16,6 +16,5 @@ def multiply(x,y):
 
 # Divide implementation
 def divide(x,y):
-if y==0
-  divide by 0
+return x/y
 
